@@ -1,5 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
-## Abker Ranim👋
+
+#  Abker Ranim👋
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=jebalirami7&label=Profile%20views&color=0e75b6&style=flat"
@@ -8,7 +9,7 @@
 </p>
 Hello! My name is Ranim Abker, and I am a passionate software engineering student who thrives on exploring new technologies and crafting unique, innovative solutions to real-world problems. My journey in software development is fueled by a deep curiosity and a commitment to continuous learning and improvement.
 
-##Languages and Tools:
+## Languages and Tools:
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
@@ -23,5 +24,5 @@ Hello! My name is Ranim Abker, and I am a passionate software engineering studen
 </div>
 
 ## Contact
--📫 How to reach me : ranim.abker@enicar.ucar.tn
+- 📫 How to reach me : ranim.abker@enicar.ucar.tn
 - LinkedIn: [Abker Ranim](www.linkedin.com/in/abker-ranim-1023002aa)

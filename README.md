@@ -23,6 +23,6 @@ Hello! My name is Ranim Abker, and I am a passionate software engineering studen
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDb" width="50" height="50">
 </div>
 
-## Contact
-- 📫 How to reach me : ranim.abker@enicar.ucar.tn
+## Contact:
+-  How to reach me : ranim.abker@enicar.ucar.tn
 - LinkedIn: [Abker Ranim](www.linkedin.com/in/abker-ranim-1023002aa)

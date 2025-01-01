@@ -25,4 +25,4 @@ Hello! My name is Ranim Abker, and I am a passionate software engineering studen
 
 ## Contact:
 -  How to reach me : ranim.abker@enicar.ucar.tn
-- LinkedIn: [Abker Ranim](www.linkedin.com/in/abker-ranim-1023002aa)
+- LinkedIn: [Abker Ranim](www.linkedin.com/in/abker-ranim-1023002aa/)

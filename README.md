@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-#  Abker Ranim👋
+#  ABKER Ranim👋
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=jebalirami7&label=Profile%20views&color=0e75b6&style=flat"
